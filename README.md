@@ -6,11 +6,11 @@ Building an event simulator which is able to simulate typical events that can be
 
 
 
-Summary of the initial submission:
--Implementing the event types with enumerator
--Implementing the function of some events
--Creating of the event queue for further use
--Implementing creation of random events with their identifiers
+Summary of the initial submission: <br>
+-Implementing the event types with enumerator <br>
+-Implementing the function of some events <br>
+-Creating of the event queue for further use <br>
+-Implementing creation of random events with their identifiers <br>
 
 
 Functional Requirements:

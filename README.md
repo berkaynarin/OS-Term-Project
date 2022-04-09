@@ -14,12 +14,12 @@ Summary of the initial submission: <br>
 
 
 Functional Requirements:
-Event simulator will be implementing the following functionalities;
+Event simulator will be implementing the following functionalities;<br>
 
 
--Address translation
--Timer interrupts
--Simple File System
--Memory allocations and file operations with traps
--Two scheduling algorithms
--Dump operations
+-Address translation<br>
+-Timer interrupts<br>
+-Simple File System<br>
+-Memory allocations and file operations with traps<br>
+-Two scheduling algorithms<br>
+-Dump operations<br>

@@ -24,8 +24,7 @@ def createProcess(processTime,processArray):
         processArray[i] = processName
         randomTime = random.randint(1,15)
         processTime[i] = randomTime #Assigning random time
-    print(processArray)
-    print(processTime)
+    print(f"Processes: {processArray}")
         
 #Finding total execution time
 def getTotalTime(processTime):
@@ -86,5 +85,5 @@ createProcess(processTime,processArray)
 sum = getTotalTime(processTime)
 
 processTime.sort(reverse=True) #To be able to work with LJF, processes should be sorted in descending order
-print(processTime)
+print(f"Execution Times: {processTime}" )
 LJF(processTime, sum)
